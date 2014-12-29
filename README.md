@@ -19,8 +19,8 @@ To run it on linux:
 </ul>
 ```python
 #------------------CONFIG------------------
-SPAWNKILL_TIME_=1 #time in seconds
-SPAWNKILL_LIMIT=5 #limit
+SPAWNKILL_TIME_=2 #time in seconds
+SPAWNKILL_LIMIT=3 #limit
 SPAWNKILL_TIMES={				#Spawnkill times for specific maps, leave empty if you want it to be default
 				'airtime': 3,
 				'propaint1': 5
