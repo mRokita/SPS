@@ -150,7 +150,6 @@ def OnElim(l):
 		server1.Say('{C}0[{C}QSPS{C}0]{C}9 %s,{C}A STOP SPAWNKILLING!' % l['player1'])
 	if l['time']-restime>30 and l['player1'] in spawnkills:
 		del spawnkills[l['player1']]
-		print 'del %s' % l['player1']
 
 def OnNamechange(l):
 	global spawnkills
