@@ -3,6 +3,8 @@ SPS
 
 Spawnkill Protection System for Digital Paint: Paintball2
 
+It uses my pypb2rconlib, available at https://github.com/hTmlDP/pb2rconlib/, the SPS's repo includes it.
+
 To run it on linux:
 <ul>
 <li>Clone the github repo:</li>
