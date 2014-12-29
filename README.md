@@ -13,7 +13,6 @@ To run it on linux:
 ```
 git clone https://github.com/hTmlDP/SPS
 ```
-To run it on linux:
 <ul>
 <li>Edit the config lines in sps.py with any text editor</li>
 </ul>
